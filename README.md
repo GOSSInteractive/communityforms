@@ -8,3 +8,5 @@ Please note that they are provided 'as is'. GOSS Interactive will not accept any
 
 NOTE:
 All forms and workflow processes deployed on a site should be reviewed to ensure they are suitable and sufficiently secure before deployment.
+
+The LocalGovDigital web site provides some advice on sharing information and the use of GitHub at http://www.localgovdigital.info/localgov-digital-makers/how-to-share-stuff/what-to-do-before-you-share/
